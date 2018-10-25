@@ -58,7 +58,5 @@ Mentors: <b>Mr.Martin Jüssi</b>
 <h2> Demo and database</h2>
 <b>Web App:</b> https://spacetartu.herokuapp.com <br>
 <b>Mobile App:</b> https://youtu.be/rtY9b52GVSI<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rtY9b52GVSI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-<b>Database:</b>https://docs.google.com/spreadsheets/d/e/2PACX-1vSU2JZD2QyoUU6lBt-ZwG9QMuOCWtgqCZaU1NKnp41loRXbxVU8nSi58M8H68DjNLSXTh0AcCeahU6t/pubhtml?gid=0&single=true
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSU2JZD2QyoUU6lBt-ZwG9QMuOCWtgqCZaU1NKnp41loRXbxVU8nSi58M8H68DjNLSXTh0AcCeahU6t/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<b>Database:</b>https://docs.google.com/spreadsheets/d/e/2PACX-1vSU2JZD2QyoUU6lBt-ZwG9QMuOCWtgqCZaU1NKnp41loRXbxVU8nSi58M8H68DjNLSXTh0AcCeahU6t/pub
 
