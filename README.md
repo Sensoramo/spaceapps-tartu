@@ -1,4 +1,9 @@
-# spaceapps-tartu
+<h1>The 2018 International NASA SpaceApps Challenge in Tartu (19-21 October 2018)</h1>
+<hr>
+<h2>Challenge: App to look up best available dataset among many satellites</h2>
+Related challenges: Looking GLOBE-ally<br>
+This idea is sponsored by UT Dept. of Geography.
+<hr>
 <h2>Problem description</h2>
 <p align="justify">Many satellites provide information about land surface temperature (LST), vegetation status (e.g. NDVI), soil moisture or other parameters. However, they differ by pixel size of the image, frequency of taking image at the same point/study area, length of the image time series etc.
 
