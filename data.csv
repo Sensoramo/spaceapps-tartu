@@ -1,0 +1,26 @@
+Satellite,Pixel_size,Band,Frequency,Imaging_time,Length_of_image
+Sentinel-2,10,"red, green and blue",5,10:30,3
+Sentinel-2,20,"5,6,7,8a,11, and 12",5,10:30,3
+Landsat 4-5,30,4-5 TM bands,16,9:30-10:00,36
+Sentinel-2,60,"1,9, and 10",5,10:30,3
+Terra,250,14 (from visible to thermal),16,10:30:00 AM,19
+Calipso,1000,IIR,16,1:30:00 PM,12
+Suomi-NPP,500,VIIRS,16,10:30:00 AM,7
+Aqua,500,MODIS 7-2-1,16,1:30:00 PM,16
+Landsat - 7,15,panchromatic,16,10:00-10:15AM,19
+Landsat - 4-5,120,thermal,16,9:30-10:00AM,36
+Landsat 8 ,100,thermal,16,10:00:00 AM,5
+IKONOS,4,1-4,3,10:30:00 AM,19
+IKONOS,1,pan-chromatic,3,10:30:00 AM,19
+QuickBird,0.7,pan-chromatic,3.5,10:30:00 AM,14
+QuickBird,2.8,1-4,3.5,10:30:00 AM,14
+Landsat 1-3,79,4-7,18,9:45:00 AM,10
+WorldView-2,1.85,"RGB, NIR",1.1,10:30:00 AM,9
+CloudSat,485,cloud profiliing radar (vertical profiling),16,1:30:00 PM,12
+Envisat,300,VNIIR,3,10:00:00 AM,10
+GeoEye-1,46,panchromatic,3,10:30:00 AM,10
+WorldView-4,0.25,panchromatic,3,10:30:00 AM,2
+WorldView-4,1,multispectral,3,10:30:00 AM,2
+WorldView-3,0.31,panchromatic,1,1:30:00 PM,4
+WorldView-3,3.7,SWIR,1,1:30:00 PM,4
+WorldView-3,30,CAVIS,1,1:30:00 PM,4
